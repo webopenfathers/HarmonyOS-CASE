@@ -4,7 +4,7 @@ struct ImageParameter {
   build() {
     Column({ space: 20 }) {
       // 本地图片，位于ets目录
-      Image('pages/component/image/images/img_phone.png')
+      Image('pages/component/image/parameter/images/img_phone.png')
         .width(150)
         .height(150)
 
