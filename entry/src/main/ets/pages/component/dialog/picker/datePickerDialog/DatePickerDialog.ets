@@ -1,6 +1,6 @@
 @Entry
 @Component
-struct DatePickerDialogPage {
+struct DatePickerDialogPage { // 日期选择器
   @State date: Date = new Date('2025-3-3')
 
   build() {
