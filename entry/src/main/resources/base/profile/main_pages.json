@@ -6,6 +6,8 @@
     "pages/router/back/FromPage",
     "pages/router/back/ToPage",
     "pages/router/params/StartPage",
-    "pages/router/params/EndPage"
+    "pages/router/params/EndPage",
+    "pages/lifecircle/PageA",
+    "pages/lifecircle/PageB"
   ]
 }
