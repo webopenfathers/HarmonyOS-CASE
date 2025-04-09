@@ -34,6 +34,11 @@
         ]
       }
     ],
+    "requestPermissions": [ // 声明所需要的权限
+      {
+        "name": "ohos.permission.INTERNET" // 网络访问权限
+      }
+    ],
     "extensionAbilities": [
       {
         "name": "EntryBackupAbility",
