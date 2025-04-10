@@ -8,6 +8,9 @@
     "pages/router/params/StartPage",
     "pages/router/params/EndPage",
     "pages/lifecircle/PageA",
-    "pages/lifecircle/PageB"
+    "pages/lifecircle/PageB",
+    "pages/storage/appStorage/PageOne",
+    "pages/storage/appStorage/PageTwo",
+    "pages/storage/appStorage/PageThree"
   ]
 }
